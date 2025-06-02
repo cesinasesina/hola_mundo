@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/fleeting-notes/programa-quiero-mi-barrio/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Fleeting notes/Programa quiero mi barrio/","noteIcon":"","created":"2025-05-26T15:18:47.165-04:00"}
 ---
 
 

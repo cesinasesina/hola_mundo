@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/output-notes/antecedentes/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Output notes/Antecedentes/","noteIcon":"","created":"2025-06-02T18:44:54.252-04:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/output-notes/analisis-de-coyuntura/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Output notes/Análisis de coyuntura/","noteIcon":"","created":"2025-06-02T12:53:26.360-04:00"}
 ---
 
 

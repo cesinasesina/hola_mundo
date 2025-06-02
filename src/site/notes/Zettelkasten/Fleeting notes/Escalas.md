@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/fleeting-notes/escalas/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Fleeting notes/Escalas/","noteIcon":"","created":"2025-05-25T22:56:17.966-04:00"}
 ---
 
 

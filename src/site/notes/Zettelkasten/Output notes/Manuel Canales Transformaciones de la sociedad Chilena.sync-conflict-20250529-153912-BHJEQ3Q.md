@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/output-notes/manuel-canales-transformaciones-de-la-sociedad-chilena-sync-conflict-20250529-153912-bhjeq-3-q/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Output notes/Manuel Canales Transformaciones de la sociedad Chilena.sync-conflict-20250529-153912-BHJEQ3Q/","noteIcon":"","created":"2025-05-29T15:39:14.167-04:00"}
 ---
 
 

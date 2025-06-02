@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/fleeting-notes/actitudes/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Fleeting notes/Actitudes/","noteIcon":"","created":"2025-05-25T22:56:17.985-04:00"}
 ---
 
 

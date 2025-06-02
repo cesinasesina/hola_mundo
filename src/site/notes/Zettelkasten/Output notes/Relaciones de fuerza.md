@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/output-notes/relaciones-de-fuerza/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Output notes/Relaciones de fuerza/","noteIcon":"","created":"2025-06-01T21:40:21.416-04:00"}
 ---
 
 

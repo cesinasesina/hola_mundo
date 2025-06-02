@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/output-notes/movimientos-organicos/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Output notes/Movimientos Orgánicos/","noteIcon":"","created":"2025-06-01T21:53:56.752-04:00"}
 ---
 
 

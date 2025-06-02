@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/literature-notes/la-evaluacion-de-programas-consideraciones-generales/","tags":["evaluación","TDR","investigación"]}
+{"dg-publish":true,"permalink":"/Zettelkasten/Literature notes/La evaluación de programas, consideraciones generales/","tags":["evaluación","TDR","investigación"],"noteIcon":"","created":"2025-06-02T17:30:53.342-04:00"}
 ---
 
 

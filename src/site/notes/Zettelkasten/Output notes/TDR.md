@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/output-notes/tdr/","tags":["TDR","evaluación","politica_publica"]}
+{"dg-publish":true,"permalink":"/Zettelkasten/Output notes/TDR/","tags":["TDR","evaluación","politica_publica"],"noteIcon":"","created":"2025-06-02T18:32:37.638-04:00"}
 ---
 
 Son documentos escritos  que definen los puntos de referencia del evaluador. Deben ser claros y específicos, adecuados al contexto y exclusivos dentro de este

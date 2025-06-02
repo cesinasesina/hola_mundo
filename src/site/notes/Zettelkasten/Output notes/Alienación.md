@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/output-notes/alienacion/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Output notes/Alienación/","noteIcon":"","created":"2025-06-01T20:16:59.546-04:00"}
 ---
 
 

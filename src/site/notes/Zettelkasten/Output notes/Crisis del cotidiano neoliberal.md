@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/output-notes/crisis-del-cotidiano-neoliberal/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Output notes/Crisis del cotidiano neoliberal/","noteIcon":"","created":"2025-06-01T19:16:53.830-04:00"}
 ---
 
 

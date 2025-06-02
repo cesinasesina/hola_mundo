@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/fleeting-notes/crisis-del-cotidiano-neoliberal/","tags":["alienación","neoliberalismo","política"]}
+{"dg-publish":true,"permalink":"/Zettelkasten/Fleeting notes/Crisis del cotidiano neoliberal/","tags":["alienación","neoliberalismo","política"],"noteIcon":"","created":"2025-06-02T12:53:27.842-04:00"}
 ---
 
 La crisis del cotidiano neoliberal es un efecto de la lógica de acción individualista y de mercadeo en la consciencia colectivo. Esto es, individuos alienados de su condición de clase, con un nivel de disconformidad que la propaganda de la clase dominante no apacigua.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/output-notes/fenomenos-de-coyuntura/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Output notes/fenómenos de coyuntura/","noteIcon":"","created":"2025-06-01T21:56:31.071-04:00"}
 ---
 
 

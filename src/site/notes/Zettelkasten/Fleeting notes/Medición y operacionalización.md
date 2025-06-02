@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/fleeting-notes/medicion-y-operacionalizacion/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Fleeting notes/Medición y operacionalización/","noteIcon":"","created":"2025-05-25T22:56:17.916-04:00"}
 ---
 
 

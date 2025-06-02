@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/literature-notes/la-pregunta-de-octubre/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Literature notes/La Pregunta de Octubre/","noteIcon":"","created":"2025-06-01T16:50:39.801-04:00"}
 ---
 
 Tags: #octubre #transformaciones/sociales 

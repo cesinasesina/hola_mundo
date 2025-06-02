@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/output-notes/investigacion-evaluativa-u-chile/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Output notes/INVESTIGACIÓN EVALUATIVA U. CHILE/","noteIcon":"","created":"2025-05-27T12:52:40.642-04:00"}
 ---
 
 

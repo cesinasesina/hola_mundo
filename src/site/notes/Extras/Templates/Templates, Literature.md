@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/extras/templates/templates-literature/"}
+{"dg-publish":true,"permalink":"/Extras/Templates/Templates, Literature/","noteIcon":"","created":"2025-06-01T14:21:09.543-04:00"}
 ---
 
 

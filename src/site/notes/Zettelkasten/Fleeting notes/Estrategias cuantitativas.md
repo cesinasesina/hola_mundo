@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/zettelkasten/fleeting-notes/estrategias-cuantitativas/"}
+{"dg-publish":true,"permalink":"/Zettelkasten/Fleeting notes/Estrategias cuantitativas/","noteIcon":"","created":"2025-05-25T22:56:16.250-04:00"}
 ---
 
 
