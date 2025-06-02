@@ -22,7 +22,6 @@ actions:
 
 | File                                                                                                                                              | Autor          | Año  |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ---- |
-| [[Zettelkasten/Literature notes/Enter Name Here\|Enter Name Here]]                                                                             | \-             | \-   |
 | [[Zettelkasten/Literature notes/La evaluación de programas, consideraciones generales\|La evaluación de programas, consideraciones generales]] | \-             | 1998 |
 | [[Zettelkasten/Literature notes/La Pregunta de Octubre\|La Pregunta de Octubre]]                                                               | Manuel Canales | 2022 |
 | [[Zettelkasten/Literature notes/Zettelkasten\|Zettelkasten]]                                                                                   | \-             | \-   |
